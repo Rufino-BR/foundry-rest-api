@@ -2,7 +2,7 @@
   "name": "foundry-rest-api",
   "title": "Foundry REST API",
   "description": "Módulo que expõe APIs REST para integração externa com o Foundry VTT",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "DMHUB Team",
   "authors": [
     {
@@ -30,13 +30,13 @@
       "path": "lang/pt-BR.json"
     }
   ],
-  "url": "https://github.com/dmhub/foundry-rest-api",
-  "manifest": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/module.json",
-  "download": "https://github.com/dmhub/foundry-rest-api/releases/latest/download/foundry-rest-api.zip",
+  "url": "https://github.com/Rufino-BR/foundry-rest-api",
+  "manifest": "https://raw.githubusercontent.com/Rufino-BR/foundry-rest-api/main/module.json",
+  "download": "https://github.com/Rufino-BR/foundry-rest-api/releases/latest/download/foundry-rest-api.zip",
   "license": "MIT",
-  "readme": "https://github.com/dmhub/foundry-rest-api/blob/main/README.md",
-  "changelog": "https://github.com/dmhub/foundry-rest-api/blob/main/CHANGELOG.md",
-  "bugs": "https://github.com/dmhub/foundry-rest-api/issues",
+  "readme": "https://github.com/Rufino-BR/foundry-rest-api/blob/main/README.md",
+  "changelog": "https://github.com/Rufino-BR/foundry-rest-api/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/Rufino-BR/foundry-rest-api/issues",
   "flags": {
     "allowBugReporter": true
   },
@@ -49,12 +49,12 @@
   "media": [
     {
       "type": "cover",
-      "url": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/assets/cover.png",
+      "url": "https://raw.githubusercontent.com/Rufino-BR/foundry-rest-api/main/assets/cover.png",
       "caption": "Foundry REST API Module"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/assets/screenshot.png",
+      "url": "https://raw.githubusercontent.com/Rufino-BR/foundry-rest-api/main/assets/screenshot.png",
       "caption": "Interface do módulo"
     }
   ]
