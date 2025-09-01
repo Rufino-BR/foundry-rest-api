@@ -2,15 +2,14 @@
   "name": "foundry-rest-api",
   "title": "Foundry REST API",
   "description": "Módulo que expõe APIs REST para integração externa com o Foundry VTT",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "DMHUB Team",
-  "minimumCoreVersion": "13",
-  "compatibleCoreVersion": "13",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
   "scripts": [
     "foundry-rest-api.js"
   ],
   "url": "https://github.com/Rufino-BR/foundry-rest-api",
   "manifest": "https://raw.githubusercontent.com/Rufino-BR/foundry-rest-api/main/module.json",
-  "download": "https://github.com/Rufino-BR/foundry-rest-api/releases/latest/download/foundry-rest-api.zip",
-  "license": "MIT"
+  "download": "https://github.com/Rufino-BR/foundry-rest-api/releases/latest/download/foundry-rest-api.zip"
 }
