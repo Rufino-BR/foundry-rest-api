@@ -1,0 +1,61 @@
+{
+  "name": "foundry-rest-api",
+  "title": "Foundry REST API",
+  "description": "Módulo que expõe APIs REST para integração externa com o Foundry VTT",
+  "version": "1.0.0",
+  "author": "DMHUB Team",
+  "authors": [
+    {
+      "name": "DMHUB Team",
+      "email": "team@dmhub.com",
+      "url": "https://dmhub.com"
+    }
+  ],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "scripts": [
+    "foundry-rest-api.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "url": "https://github.com/dmhub/foundry-rest-api",
+  "manifest": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/module.json",
+  "download": "https://github.com/dmhub/foundry-rest-api/releases/latest/download/foundry-rest-api.zip",
+  "license": "MIT",
+  "readme": "https://github.com/dmhub/foundry-rest-api/blob/main/README.md",
+  "changelog": "https://github.com/dmhub/foundry-rest-api/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/dmhub/foundry-rest-api/issues",
+  "flags": {
+    "allowBugReporter": true
+  },
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "library": false,
+  "manifestPlusVersion": "1.2.0",
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/assets/cover.png",
+      "caption": "Foundry REST API Module"
+    },
+    {
+      "type": "screenshot",
+      "url": "https://raw.githubusercontent.com/dmhub/foundry-rest-api/main/assets/screenshot.png",
+      "caption": "Interface do módulo"
+    }
+  ]
+}
