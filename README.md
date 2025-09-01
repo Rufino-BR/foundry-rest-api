@@ -8,7 +8,7 @@ Um módulo para Foundry Virtual Tabletop que expõe APIs REST para integração 
 1. Abra o Foundry VTT
 2. Vá em **Configurações** → **Gerenciar Módulos**
 3. Clique em **"Instalar Módulo"**
-4. Cole a URL: `https://github.com/SEU_USUARIO/foundry-rest-api/releases/latest/download/module.json`
+4. Cole a URL: `https://github.com/Rufino-BR/foundry-rest-api/releases/latest/download/module.json`
 5. Clique em **"Instalar"**
 
 ### Manual
