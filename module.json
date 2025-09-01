@@ -2,10 +2,10 @@
   "name": "foundry-rest-api",
   "title": "Foundry REST API",
   "description": "Módulo que expõe APIs REST para integração externa com o Foundry VTT",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "DMHUB Team",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "11",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
   "scripts": [
     "foundry-rest-api.js"
   ],
