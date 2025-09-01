@@ -32,11 +32,11 @@ class FoundryRestApi {
             return;
         }
 
+        // Registra as configurações do módulo primeiro
+        this.registerSettings();
+        
         // Configura o token de API
         this.apiToken = game.settings.get('foundry-rest-api', 'apiToken') || this.generateToken();
-        
-        // Registra as configurações do módulo
-        this.registerSettings();
         
         // Registra os hooks
         this.registerHooks();
