@@ -5,13 +5,6 @@
   "description": "Módulo que expõe APIs REST para integração externa com o Foundry VTT",
   "version": "1.0.4",
   "author": "DMHUB Team",
-  "authors": [
-    {
-      "name": "DMHUB Team",
-      "email": "team@dmhub.com",
-      "url": "https://dmhub.com"
-    }
-  ],
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
   "scripts": [
@@ -38,6 +31,13 @@
   "readme": "https://github.com/Rufino-BR/foundry-rest-api/blob/main/README.md",
   "changelog": "https://github.com/Rufino-BR/foundry-rest-api/blob/main/CHANGELOG.md",
   "bugs": "https://github.com/Rufino-BR/foundry-rest-api/issues",
+  "authors": [
+    {
+      "name": "DMHUB Team",
+      "email": "team@dmhub.com",
+      "url": "https://dmhub.com"
+    }
+  ],
   "flags": {
     "allowBugReporter": true
   },
